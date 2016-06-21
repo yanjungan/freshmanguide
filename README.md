@@ -8,4 +8,4 @@
 * 3.cookie的添加和读取。添加：document.cookie="name=www.open.com.cn;expires="+oDate;/*expires表示的失效时间*/。读取：var res=document.cookie.substring(5);//表示从第五个字符开始读取
 * 4.jquery没有封装cookie的方法，所以和原生的js一样的方法。
 
-###效果：
+
